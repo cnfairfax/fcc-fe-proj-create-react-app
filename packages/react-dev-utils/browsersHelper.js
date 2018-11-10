@@ -14,8 +14,7 @@ const pkgUp = require('pkg-up');
 const fs = require('fs');
 
 const defaultBrowsers = [
-  '>0.2%',
-  'not dead',
+  '>0.5%',
   'not ie <= 11',
   'not op_mini all',
 ];

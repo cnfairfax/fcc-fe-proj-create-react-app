@@ -1,8 +1,8 @@
 {
-  "name": "react-dev-utils",
+  "name": "fcc-fe-proj-react-dev-utils",
   "version": "6.1.1",
-  "description": "Webpack utilities used by Create React App",
-  "repository": "facebook/create-react-app",
+  "description": "Custom webpack utilities used by Create React App",
+  "repository": "cnfairfax/fcc-fe-proj-create-react-app",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/facebook/create-react-app/issues"
