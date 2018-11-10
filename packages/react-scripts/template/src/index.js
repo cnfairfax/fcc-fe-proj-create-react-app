@@ -6,13 +6,10 @@ import { Provider } from 'react-redux';
 
 import App from './App';
 
-/* IMPORTING REDUCERS
 import quote from './reducers/quote';
-*/
 
 import * as serviceWorker from './serviceWorker';
 
-/* SETTING UP STORE
 const app = combineReducers({quote});
 
 const store = createStore(
@@ -23,7 +20,6 @@ const store = createStore(
 if(process.env.NODE_ENV === 'development') {
     window.store = store;
 }
-*/
 
 ReactDOM.render(
     <Provider store={ store }>
